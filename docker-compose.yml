@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  next-server:
+    container_name: next-server
+    build: .
+    ports:
+      - 3000:3000

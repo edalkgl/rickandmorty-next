@@ -1,0 +1,10 @@
+.next
+.idea
+.vercel
+.swcrc.json
+/node_modules/
+/public/
+next-env.d.ts
+tailwind.config.ts
+tsconfig.json
+package.json
